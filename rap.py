@@ -2,12 +2,12 @@ import os
 import  re, os,time,getpass,sys
 from platform import system
 print ("\33[95m hello +_+")
-print ('[1] rap')
-print ('[2] sad')
-print ('[3] gust')
+print ('[1] dream')
+print ('[2] +')
+print ('[3] sad')
 s = input ('Enter Here : ')
 if s == '1':
-    print ('[1] didin')
+    print ('[1] F good')
     print ('\33[0;31m[2] you')
     a = input ('\33[95mEnter Here : ')
     if a == '1':
