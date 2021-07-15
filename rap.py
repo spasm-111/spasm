@@ -20,7 +20,7 @@ if s == '1':
         print ('\33[0;31mnot spasm !!')
 elif s == '2':
     print ('Ok')
-    os.system('termux-media-player play /data/data/com.termux/files/home/spasm/hack.mp3')
+    os.system('termux-media-player play /data/data/com.termux/files/home/spasm/ss.mp3')
 elif s == '3':
     print ('Ok')
     os.system('termux-media-player play /data/data/com.termux/files/home/spasm/tegga.mp3')
