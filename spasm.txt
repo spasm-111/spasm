@@ -1,0 +1,21 @@
+#From spasm
+
+ 1_ go to The Terminal and enter : pkg install bash -y
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2_ go and run the file spasm.sh
+ 
+ Gust go to the Terminal and enter : bash spasm.py 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 3_ The Password for option [3] '+' is : spasm
+
+ for know the name of my cash
+
+
+
+
+
+ hi :  Do not forget run the file spasm.sh for install the pkg
